@@ -1,0 +1,57 @@
+customer_id,transaction_date,transaction_amount,customer_age,state,membership_status,transaction_type
+Cust0004,2024-01-04,71.83,33.0,Ny,Active,Online
+Cust0005,2024-01-05,943.42,37.0,California,Inactive,In-Store
+Cust0006,2024-01-06,788.36,69.0,New York,Inactive,In-Store
+Cust0007,2024-01-07,995.68,64.0,California,Pending,Mobile
+Cust0008,2024-01-08,263.66,42.0,California,Nan,Online
+Cust0010,2024-01-10,454.6,51.0,Texas,Inactive,In-Store
+Nan,2024-01-11,71.73,30.0,Texas,Active,In-Store
+Cust0012,2024-01-12,337.75,46.0,New York,Pending,In-Store
+Cust0015,2024-01-15,181.66,23.0,Ny,Active,In-Store
+Cust0016,2024-01-16,831.88,63.0,California,Pending,Mobile
+Cust0017,2024-01-17,882.56,19.0,Ny,Nan,Online
+Cust0018,2024-01-18,141.6,61.0,California,Inactive,Mobile
+Cust0019,2024-01-19,540.95,20.0,Nan,Active,Online
+Nan,2024-01-21,808.06,49.0,New York,Inactive,Mobile
+Cust0024,2024-01-24,419.38,60.0,Ny,Nan,In-Store
+Cust0025,2024-01-25,78.37,42.0,California,Inactive,Online
+Cust0026,2024-01-26,954.66,63.0,Texas,Inactive,Online
+Cust0028,2024-01-28,864.71,37.0,California,Active,Mobile
+Cust0030,2024-01-30,201.96,28.0,Ny,Inactive,In-Store
+Nan,2024-01-31,532.72,31.0,Texas,Nan,Online
+Cust0033,2024-02-02,750.87,31.0,New York,Nan,Online
+Cust0034,2024-02-03,727.91,41.0,Ny,Pending,In-Store
+Nan,2024-02-10,845.37,24.0,New York,Nan,Mobile
+Cust0042,2024-02-11,105.58,31.0,Nan,Active,Mobile
+Cust0044,2024-02-13,62.83,68.0,Texas,Pending,Online
+Cust0045,2024-02-14,829.92,42.0,Texas,Pending,Mobile
+Cust0046,2024-02-15,885.34,69.0,New York,Nan,Mobile
+Cust0050,2024-02-19,808.05,49.0,California,Pending,Mobile
+Cust0052,2024-02-21,207.77,23.0,Nan,Pending,Online
+Cust0056,2024-02-25,357.79,32.0,New York,Inactive,Mobile
+Cust0058,2024-02-27,766.44,18.0,California,Pending,In-Store
+Cust0060,2024-02-29,375.27,46.0,New York,Inactive,In-Store
+Cust0062,2024-03-02,279.11,33.0,Texas,Pending,Online
+Cust0063,2024-03-03,86.69,42.0,New York,Active,In-Store
+Cust0064,2024-03-04,102.8,59.0,California,Nan,Online
+Cust0066,2024-03-06,35.4,24.0,Nan,Nan,Online
+Cust0067,2024-03-07,538.83,28.0,Ny,Nan,Online
+Cust0068,2024-03-08,312.14,64.0,Texas,Nan,Online
+Cust0069,2024-03-09,88.13,33.0,Ny,Inactive,In-Store
+Nan,2024-03-11,146.61,21.0,California,Active,Online
+Cust0072,2024-03-12,242.42,23.0,California,Active,Online
+Cust0075,2024-03-15,518.4,68.0,New York,Nan,Online
+Cust0077,2024-03-17,182.4,48.0,New York,Pending,Mobile
+Cust0080,2024-03-20,21.33,55.0,Nan,Inactive,Mobile
+Cust0083,2024-03-23,138.55,49.0,California,Inactive,In-Store
+Cust0086,2024-03-26,687.87,63.0,Nan,Inactive,Mobile
+Cust0087,2024-03-27,195.31,46.0,California,Inactive,Online
+Cust0088,2024-03-28,728.67,70.0,California,Active,In-Store
+Cust0090,2024-03-30,238.5,45.0,Ny,Inactive,In-Store
+Nan,2024-03-31,603.43,18.0,Ny,Pending,Online
+Cust0093,2024-04-02,831.22,55.0,Texas,Inactive,In-Store
+Cust0095,2024-04-04,736.58,60.0,Ny,Active,Online
+Cust0098,2024-04-07,524.31,35.0,California,Nan,Online
+Cust0099,2024-04-08,997.57,28.0,Texas,Nan,Online
+Cust0004,2024-01-04,71.83,33.0,Ny,Active,Online
+Cust0005,2024-01-05,943.42,37.0,California,Inactive,In-Store
